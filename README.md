@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mal Sawm Daung Sangi.
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning too.
 - 📫 Reach me by instagram user the_dawn.g
 
 <!---
