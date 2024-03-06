@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mal Sawm Daung Sangi.
 - 👀 I’m interested in Development.
 - 🌱 I’m currently learning React.
-- 📫 Reach me by facebook user d.mikrokosmos
+- 📫 Reach me by instagram user the_dawn.g
 
 <!---
 msdaungsangi/msdaungsangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
